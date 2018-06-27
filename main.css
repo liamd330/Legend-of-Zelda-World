@@ -1,0 +1,77 @@
+body {
+
+    margin-left: 15%;
+}
+
+header {
+    border: solid 1px blue;
+    width: 30%;
+}
+
+nav {
+    width: 80%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    text-align: center;
+    border: solid 1px blue;
+}
+
+ul li {
+    display: inline-block;
+    margin-left: 1%;
+    border: solid 1px blue;
+}
+
+.banner {
+    padding-bottom: 20%;
+    margin-top: 1%;
+    width: 80%;
+    border: solid 1px blue;
+}
+
+.medallion {
+    padding-bottom: 20%;
+    border: solid 1px blue;
+    width: 30%;
+    margin: 0 auto;
+    margin-left: 30%;
+}
+
+p {
+    text-align: center;
+    margin-right: 10%;
+}
+
+main {
+    
+}
+
+.content {
+    width: 65%;
+    padding-bottom: 30%;
+    border: solid 1px blue;
+    margin-bottom: 1%;
+    display: inline-block;
+}
+
+.resources {
+    width: 13.5%;
+    padding-bottom: 30%;
+    border: solid 1px blue;
+    margin-bottom: 1%;
+    display: inline-block;
+    margin-left: 1%;
+}
+
+.temple-content {
+    width: 50%;
+    padding-bottom: 30%;
+    margin-bottom: 1%;
+    border: solid 1px blue;
+    margin-left: 20%;
+}
+
+footer {
+    width: 80%;
+    border: solid 1px blue;
+}
